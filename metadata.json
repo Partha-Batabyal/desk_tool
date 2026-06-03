@@ -1,0 +1,8 @@
+{
+  "name": "Wallpaper Generator",
+  "description": "An interactive minimalist design tool to create, customize, and export high-quality modern desktop and mobile wallpapers with modular zones, glassmorphic panels, and granular controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
